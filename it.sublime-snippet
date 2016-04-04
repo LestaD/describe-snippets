@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+it('${1:Name}', () => {
+  ${0: // body}
+});
+]]></content>
+  <tabTrigger>it</tabTrigger>
+  <scope>source.js,source.jsx,source.ts</scope>
+  <description>it('Name', () => {});</description>
+</snippet>
